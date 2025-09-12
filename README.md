@@ -1,4 +1,5 @@
  - 👋 Teacher @ Department Of Film And TV Technology, Beijing Film Academy
- - 👀 Research Field: Digital Film Technology, Color Science, Film Virtual/Intelligent Production
+ - 👀 Research Field: Digital Film Technology, Film Virtual/Intelligent Production, Color Science, Immersive Media
  - 📫 E-mail Address: lumenghe@bfa.edu.cn
  - 💻 Personal Website: https://www.lumenghe.com
+ - 🔗 Linkedin: https://www.linkedin.com/in/menghe-horace-lu/
