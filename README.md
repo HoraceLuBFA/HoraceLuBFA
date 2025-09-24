@@ -1,5 +1,7 @@
- - 👋 Teacher @ Department Of Film And TV Technology, Beijing Film Academy
- - 👀 Research Field: Digital Film Technology, Film Virtual/Intelligent Production, Color Science, Immersive Media
- - 📫 E-mail Address: lumenghe@bfa.edu.cn
- - 💻 Personal Website: https://www.lumenghe.com
- - 🔗 Linkedin: https://www.linkedin.com/in/menghe-horace-lu/
+ - Lecturer @ School of Intelligent Imagery Engineering, Beijing Film Academy
+ - Visiting Scholar @ Dodge College of Film and Media Arts, Chapman University
+ - Research Field: Virtual + Intelligent Film Production, Color Science, Immersive Media
+ - [Linkedin](https://www.linkedin.com/in/menghe-horace-lu/)
+ - [Personal Website](https://www.lumenghe.com/)
+ - lumenghe@bfa.edu.cn
+
